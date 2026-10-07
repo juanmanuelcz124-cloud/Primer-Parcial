@@ -35,6 +35,7 @@
       ]
     ],
     "experiments": {
+      "baseUrl": "/Primer-Parcial",
       "typedRoutes": true,
       "reactCompiler": true
     }
